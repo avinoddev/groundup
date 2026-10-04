@@ -1,0 +1,11 @@
+# Math Libraries
+numpy
+matplotlib
+
+# Backend Libraries
+
+fastapi[standard]
+
+# Neural Networks
+graphviz
+torch 

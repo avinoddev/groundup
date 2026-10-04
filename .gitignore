@@ -1,0 +1,12 @@
+# virtual environment
+.venv/
+
+# notes
+notes.md
+*_notes.md
+
+# python / jupyter junk
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+node_modules/
